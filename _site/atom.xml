@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>BANANAS</title>
+ <link href="http://bananas.cat/atom.xml" rel="self"/>
+ <link href="http://bananas.cat/"/>
+ <updated>2013-06-20T17:36:04-04:00</updated>
+ <id>http://bananas.cat</id>
+ <author>
+   <name>BANANAS</name>
+ </author>
+
+ 
+ <entry>
+   <title>Up</title>
+   <link href="http://bananas.cat/posts/up"/>
+   <updated>2012-12-13T00:00:00-05:00</updated>
+   <id>http://bananas.cat/posts/up</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

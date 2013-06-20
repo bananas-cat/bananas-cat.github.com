@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+title : BANANAS
+production_url : http://bananas.cat
+description: "go bananas"
+disqus_shortname: caarlos0blog
+analytics: UA-32899481-1
+gauges: 50f2b533613f5d7c8000000c
+author :
+  name : BANANAS
