@@ -1536,6 +1536,7 @@ a.list-group-item.active .list-group-item-text {
 }
 .nav>li>a {
     position: relative;
+    float: left;
     display: block;
     padding: 10px 15px
 }
